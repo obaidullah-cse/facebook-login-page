@@ -1,0 +1,198 @@
+.header{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: #3B5998;
+    border-bottom: 1px solid #133783;
+}
+.middle{
+    margin: 0px 182px;
+    height: 85px;
+    
+    
+}
+.facecook-title-left{
+    float: left;
+    margin-top: 26px;
+}
+.facecook-title-left img{
+    width: 80%;
+}
+.email{
+    float: left;
+   
+}
+.password{
+    float: left;
+    
+}
+.content{
+    float:right;
+}
+.text{
+    color: #fff;
+    font-size: 14px;
+}
+.margin-top{
+    margin-top: 20px;
+    margin-right: 15px;
+}
+.input-text{
+    padding: 1px;
+    width: 160px;
+    margin-top: 4px;
+}
+.forgot-pass{
+    color: #9CB4D4;
+    margin-top: 4px;
+    font-size:14px;
+}
+.forgot-pass:hover{
+    text-decoration: underline; 
+    cursor: pointer  
+}
+.btn-button{
+    margin-top: 41px;
+    background-color: #4267b2;
+    border: 1px solid #29487D;
+    padding: 4px 6px;
+    border-radius:2px;
+    font-size: 12px;
+}
+.btn-button:hover{
+    background-color: #365899;
+}
+.button-inline{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;  
+}
+.body{
+    background: linear-gradient(white, #D3D8E8);
+}
+.sub-body{
+    margin: 0px 182px;
+    height: 559px;
+    
+}
+.leftpart{
+    float: left;
+}
+.leftpart p{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+    margin-bottom: 0px;
+    
+}
+.rightpart{
+    float: right;
+    
+}
+.rightpart h1{
+    font-size: 36px;
+    color: #333;
+}
+.rightpart p{
+    color: #1d2129;
+    font-size: 19px;
+    margin-top: -15px;
+}
+.input-form{
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding: 10px 12px;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    
+}
+.long{
+    width: 419px
+}
+.rightpart h3{
+    color: #90949c;
+    font-size: 16px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+.selector{
+    font-size: 10px;
+    margin-top: -6px;
+    background-color: #fff;
+    color: #1c1e21;
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #ccd0d5
+}
+.question-icon{
+    float: right;
+    margin-top: -3px;
+    margin-right: 218px;
+    cursor: pointer 
+}
+.gender-input{
+    margin-right: 4px;
+    padding: 5px 0 5px 4px;
+    cursor: default;
+
+}
+.gender-q-icon{
+    float: right;
+    margin-top: -4px;
+    margin-right: 163px;
+    cursor: pointer;
+}
+.description{
+    color: #777 !important;
+    font-size: 11px !important; 
+    width: 316px;
+    margin-top: 15px !important;
+}
+.linkup{
+    color: #3858A2;
+}
+.linkup:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.btn-signup{
+    margin-top: 10px;
+    font-size: 19px;
+    padding: 8px 60px;
+    background: linear-gradient(#67ae55, #578843);
+    box-shadow: inset 0 1px 1px #a4e388;
+    border: 0.5px solid #2c5115;
+    border-radius: 5px;
+    color: #fff;
+}
+.btn-signup:hover{
+    background: linear-gradient(#83cc70, #578843);
+}
+.create{
+    font-size: 13px;
+    margin-top: 25px;
+    color: #666;
+    font-weight: bold;
+}
+.create-page{
+    color:#385898;
+}
+.create-page:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer{
+    background-color: white;  
+    font-size: 13px; 
+    text-align: center;
+    margin: 0 auto; 
+    margin-top: 120px; 
+    padding-bottom: 10px;
+}
